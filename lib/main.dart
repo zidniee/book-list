@@ -235,7 +235,6 @@ class ReadingBookFile extends StatelessWidget {
           pdfAsset,
 
           enableTextSelection: true,
-          // Tambahkan pengaturan lain jika perlu
           scrollDirection: PdfScrollDirection.vertical,
           canShowPaginationDialog: true,
         ),
